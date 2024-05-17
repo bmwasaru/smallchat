@@ -1,1 +1,3 @@
 # smallchat
+
+IRC style chat
